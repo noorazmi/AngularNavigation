@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:12
+-keep class com.angular.nav.CordovaPluginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.angular.nav.HomeActivity { <init>(...); }
+
