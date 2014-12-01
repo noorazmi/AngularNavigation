@@ -7,6 +7,7 @@ import android.os.Bundle;
 
 public class CordovaPluginActivity  extends CordovaActivity 
 {
+	private String currentURL = "/pageBee";
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
@@ -15,5 +16,10 @@ public class CordovaPluginActivity  extends CordovaActivity
         // Set by <content src="index.html" /> in config.xml
         super.loadUrl(Config.getStartUrl());
         //super.loadUrl("file:///android_asset/www/index.html");
+    }
+    
+    
+    public String getCurrentURL(){
+    	return currentURL;
     }
 }
