@@ -34,9 +34,9 @@ public class HomeActivity extends Activity implements OnClickListener {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		
+
 		setContentView(R.layout.home_activity);
-		
+
 		mButtonA = (Button) findViewById(R.id.button_a);
 		mButtonB = (Button) findViewById(R.id.button_b);
 
@@ -44,24 +44,31 @@ public class HomeActivity extends Activity implements OnClickListener {
 		mButtonB.setOnClickListener(this);
 	}
 
-	
 	@Override
 	public void onClick(View v) {
-		Intent intent = new Intent();
 		switch (v.getId()) {
-		
+
 		case R.id.button_a:
-			
-			intent.setClass(this, CordovaPluginActivity.class);
-			startActivity(intent);
+			openHybridScreen();
 			break;
 		case R.id.button_b:
-
+			openHybridScreen();
 			break;
 
 		default:
 			break;
 		}
 
+	}
+
+	/**
+	 * Open hybrid activity
+	 * 
+	 * @param activity
+	 */
+	public void openHybridScreen() {
+		Intent intent = new Intent();
+		intent.setClass(this, CordovaPluginActivity.class);
+		startActivity(intent);
 	}
 }

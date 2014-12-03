@@ -5,13 +5,19 @@
     <feature name="App">
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
+    <feature name="Camera">
+        <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
+    </feature>
     <name>AngularNav</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        gjhtjkuy
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <feature name="NativeHybridCommPlugin">
+        <param name="android-package" value="com.angular.nav.hybrid.NativeHybridCommPlugin" />
+    </feature>
 </widget>

@@ -2,6 +2,8 @@ package com.angular.nav.hybrid;
 
 import org.json.JSONArray;
 
+import android.util.Log;
+
 import com.angular.nav.CordovaPluginActivity;
 
 
@@ -13,6 +15,8 @@ public class NativeHybridCommPlugin extends BaseCordovaPlugin {
 
     @Override
     public boolean performAction(String action, JSONArray args){
+    	Log.d("TAGTAG*****************************","CordovaPlugin*****************************************");
+    	
       if (ACTION_SCREEN_URL.equals(action)) {
             try {
                 String screenUrl = getScreenUrl();

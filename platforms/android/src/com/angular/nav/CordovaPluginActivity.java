@@ -7,7 +7,7 @@ import android.os.Bundle;
 
 public class CordovaPluginActivity  extends CordovaActivity 
 {
-	private String currentURL = "/pageBee";
+	private String currentURL = "page2";
     @Override
     public void onCreate(Bundle savedInstanceState)
     {

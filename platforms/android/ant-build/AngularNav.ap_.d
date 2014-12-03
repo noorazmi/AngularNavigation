@@ -30,7 +30,6 @@
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/_where-is-www.txt \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www \
-/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/config.xml \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/cordova.js \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/cordova_plugins.js \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/css \
@@ -40,6 +39,7 @@
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/js \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/libs \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/partials \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/plugins \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/README.md \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/res \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/css/index.css \
@@ -67,10 +67,20 @@
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/libs/angular/plugins/angular-swipe/0.0.5/angular-swipe.js \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/libs/angular/plugins/ui-utils/0.0.4 \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/libs/angular/plugins/ui-utils/0.0.4/ui-utils.js \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/partials/logo.png \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/partials/page2.html \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/partials/page3.html \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/partials/route1.html \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/partials/route1.list.html \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/partials/route2.html \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/partials/route2.list.html \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/partials/style.css \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/plugins/org.apache.cordova.camera \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/plugins/org.apache.cordova.camera/www \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/Camera.js \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraConstants.js \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js \
+/Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/res/icon \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/res/screen \
 /Users/noor.alam/Documents/Proj/CordovaProj/AngularNavigation/platforms/android/assets/www/res/icon/android \
